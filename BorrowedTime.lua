@@ -198,7 +198,7 @@ function mod:OnEnable()
 	mod:RegisterEvent("ACTIVE_TALENT_GROUP_CHANGED", "PLAYER_TALENT_UPDATE")
 	mod:RegisterEvent("UNIT_AURA", "UpdateBuffStatus")
 	mod:RegisterEvent("PLAYER_TARGET_CHANGED", "UpdateBuffStatus")
-	mod:RegisterEvent("SPELL_UPDATE_USABLE", "UpdateCooldownStatus")
+	mod:RegisterEvent("SPELL_UPDATE_COOLDOWN", "UpdateCooldownStatus")
 
 end
 
