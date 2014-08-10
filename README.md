@@ -1,4 +1,4 @@
-borrowed-time
+Borrowed Time
 =============
 
 Borrowed Time WoW mod

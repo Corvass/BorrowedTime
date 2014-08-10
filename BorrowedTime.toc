@@ -1,0 +1,17 @@
+## Interface: 50400
+## Title: Borrowed Time
+## Notes: Rotation Display
+## Author: Corvass
+## Version: 1.0
+## DefaultState: enabled
+## X-Email: corvass@gmail.com
+## LoadManagers: AddonLoader
+## OptionalDeps: Ace3, LibBars-1.0, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets, SharedMedia, SharedMedia-Blizzard, ButtonFacade, LibMagicUtil-1.0
+## SavedVariables: BorrowedTimeDB
+
+# Library files
+embeds.xml
+Locales.xml
+BorrowedTime.lua
+Config.lua
+Presets.lua
